@@ -1,6 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning **AI development, web programming, and software architecture**.  
-💼 I have experience in **web design & development, video editing, 2D animation, and training coordination**.  
+💼 I have experience in **web design & development, video editing, 2D/3D animation**.  
 📚 I love learning new things every day and sharing knowledge with others.  
 🎯 My goal is to apply AI in real-world projects and help businesses optimize their processes.
 
